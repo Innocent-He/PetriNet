@@ -63,7 +63,7 @@ public class TestAll {
         String three="P1-T4-P5-T6-P17-T10-P16";
         String four="P16-T4-P5-T6-P11-T10-P16";
         String[] test={one,two,three,four};
-        System.out.println(Arrays.toString(QuerySpecialCycle.screen(test)));
+
 
 
     }
